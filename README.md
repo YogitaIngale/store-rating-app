@@ -4,7 +4,7 @@ A full-stack web application designed to allow users to search, view, and rate l
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Backend
 * **Framework:** NestJS (Node.js)
@@ -19,7 +19,7 @@ A full-stack web application designed to allow users to search, view, and rate l
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 The project is structured as a monorepo consisting of decoupled frontend and backend applications managed under a single root repository workspace:
 
